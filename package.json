@@ -1,0 +1,35 @@
+{
+  "name": "@noxify/gridsome-remark-classes",
+  "version": "1.0.0",
+  "description": "Gridsome Remark plugin to add css class to any element",
+  "main": "plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcus Reinhardt <webstone@gmail.com>",
+  "homepage": "https://github.com/noxify/gridsome-remark-classes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/noxify/gridsome-remark-classes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/noxify/gridsome-remark-classes/issues"
+  },
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "vue",
+    "remark",
+    "gridsome",
+    "gridsome-plugin",
+    "markdown",
+    "css",
+    "classes",
+    "classnames"
+  ],
+  "dependencies": {
+    "unist-util-select": "^3.0.0"
+  }
+}
