@@ -1,7 +1,7 @@
 # gridsome-remark-classes
 Gridsome Remark plugin to add css classes to any element
 
-Inspired by chrisg86/gatsby-remark-classes
+Inspired by [chrisg86/gatsby-remark-classes](https://github.com/chrisg86/gatsby-remark-classes)
 
 # Installation
 
