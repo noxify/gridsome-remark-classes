@@ -1,6 +1,6 @@
 {
   "name": "@noxify/gridsome-remark-classes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gridsome Remark plugin to add css class to any element",
   "main": "plugin.js",
   "scripts": {
